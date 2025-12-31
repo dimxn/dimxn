@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Profile!
 
-I'm Dmytro Ruzhyckyi, hailing from the picturesque town of Zolochiv in the heart of Lviv Region, Ukraine. 🌍 I'm passionate about programming and thrive in collaborative team environments.
+I'm Dmytro Ruzhyckyi, hailing from the picturesque town of Lviv, Ukraine. 🌍 I'm passionate about programming and thrive in collaborative team environments.
 
 ### 👨‍💻 My socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dmytr.off/)
@@ -11,9 +11,9 @@ I'm Dmytro Ruzhyckyi, hailing from the picturesque town of Zolochiv in the heart
 [![codewars](https://www.codewars.com/users/dimxn/badges/large)](https://www.codewars.com/users/dimxn) 
 
 
-### 🚀 Main Programming Languages & Frameworks:
+### 🚀 My stack:
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=32&pause=500&vCenter=true&random=false&width=435&lines=JavaScript;React;PHP;REST+API;Python)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=32&pause=500&vCenter=true&random=true&width=435&lines=JavaScript;React;Next.js;TypeScript;Redux;Firebase;RTK+Query;SCSS/SASS)
 
 ### Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxn)
